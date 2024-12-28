@@ -1,1 +1,14 @@
 🎯Revising Java
+👉Developed by Sun microsystem later acquired by oracle.
+👉Developed by JAMES GOSLING and PATRICK NAUGHTON.
+
+▶️Important:
+    1️⃣JVM(Java Virtual Machine): It is a specification. It includes the steps to execute bytecode.
+    2️⃣JRE(Java Runtime Environment): Implementation of JVM.
+    3️⃣JDK(Java Development Kit): Contains JRE and Development tools.
+
+▶️Data Types:
+    1️⃣Primitive: boolean, byte, char, short, int, long, float, double 8 types (Inbuilt with language)
+    2️⃣Non-Primitive:  String ,Array and list   (User defined data)
+
+

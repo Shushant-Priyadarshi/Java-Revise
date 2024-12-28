@@ -1,7 +1,7 @@
 package basics;
 
-public class Basics {
+class Basics {
     public static void main(String[] args) {
-        System.out.println("Revising Java");
+        System.out.println("Basics to aata h yaar!! OOPS KRTA HUN😎😎");
     }
 }
