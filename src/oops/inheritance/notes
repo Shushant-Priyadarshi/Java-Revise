@@ -1,0 +1,20 @@
+🎯Inheritance
+    👉It is a mechanism is java by which one class is allowed to inherit the features of another class.
+    👉done using extend keyword.
+
+    ▶️Types of Inheritance:
+        1️⃣Single Level : One parent to one child
+        2️⃣Multilevel: Grandparent => Parent => Child
+        3️⃣Hierarchical: One parent many child
+        4️⃣Multiple: many parent one child (not supported by java to implement
+            multiple inhertance use => Interface)
+        4️⃣Cyclic:  A  class indirectly tries to inherit from itself through another class.
+            ex: A → B → C → A
+
+    ▶️super: Super keyword is use to refer the immediate parent object of the current object.
+    ▶️super(): Super is used to call the parent class constructor from inside child class constructor.
+
+    ▶️Interface:
+
+
+
