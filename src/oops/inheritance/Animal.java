@@ -4,7 +4,11 @@ public class Animal {
     String name;
     int legs;
 
-    void eat(){
+    void noOflegs(){
         System.out.println(this.name+" has "+this.legs+" legs");
+    }
+
+    void eat(){
+        System.out.println("Animal eats: ");
     }
 }

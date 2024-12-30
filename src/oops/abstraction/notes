@@ -1,0 +1,7 @@
+🎯Abstraction: showing features and hiding internal details(implementations).
+    👉There are two ways to achieve abstraction.
+        ▶️Abstract classes (0-100%):
+            ▶️Abstract methods: The methods which only have a prototype not the full body.
+                defined with abstract keyword.
+
+        ▶️Interface (100% abstraction):
