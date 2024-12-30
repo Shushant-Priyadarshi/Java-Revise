@@ -1,0 +1,8 @@
+🎯Static: used for memory management is Java. It can be applied to variables,
+        methods, blocks and nested class.
+        👉The main concept of static is that it belongs to the class rather than the instance of
+            the class.
+
+
+
+
